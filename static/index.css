@@ -1,0 +1,63 @@
+section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.sobre p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.trabalhos {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.trabalhos h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.trabalhos p {
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.trabalhos a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.trabalhos a:hover {
+    text-decoration: underline;
+}
+
+.habilidades {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.habilidade {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.texto-materias{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
